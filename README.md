@@ -3,10 +3,10 @@
   
   # Base Block
   
-  ### Jump Higher. Earn Crypto. Built on Base.
+  ### build blocks. Earn Crypto. Built on Base.
   
   <p>
-    <a href="https://base-jump-five.vercel.app">
+    <a href="https://base-tower.vercel.app/">
       <img src="https://img.shields.io/badge/Play_Now-0052FF?style=for-the-badge&logoColor=white" alt="Play Now" />
     </a>
     <a href="#roadmap">
@@ -142,7 +142,7 @@ Score-based:
 | Contract | Address | Purpose |
 |----------|---------|----------|
 | **MiniGame** | `0x345BC...fb31C` | Game sessions & score verification |
-| **BaseJump** | `0xd1370...c3506` | Token rewards & gift box claims |
+| **baseBlock** | `0xd1370...c3506` | Token rewards & gift box claims |
 
 **Key Features:**
 - ⚡ Fast, low-cost transactions on Base L2
@@ -208,7 +208,7 @@ Play directly in your Farcaster app:
 
 ### 🌐 Web Version (Coming Soon)
 
-Join the waitlist: **[base-jump-five.vercel.app](https://base-jump-five.vercel.app)**
+Join the waitlist: **[base-jump-five.vercel.app](https://base-tower.vercel.app/)**
 
 **What's Coming:**
 - 💻 Browser-based gameplay
@@ -456,7 +456,7 @@ git push origin feature/your-feature
 <td align="center" width="33%">
 
 ### 👥 Community
-[Discord](https://discord.gg/basejump) • [Twitter](https://twitter.com/basejumpgame)
+[Discord](https://discord.gg/baseBlock) • [Twitter](https://twitter.com/baseBlockgame)
 
 </td>
 <td align="center" width="33%">
@@ -468,7 +468,7 @@ git push origin feature/your-feature
 <td align="center" width="33%">
 
 ### 📚 Docs
-[Documentation](https://docs.basejump.game)
+[Documentation](https://docs.baseBlock.game)
 
 </td>
 </tr>
@@ -486,7 +486,7 @@ git push origin feature/your-feature
   <a href="https://farcaster.xyz/~/mini-apps/launch?domain=base-jump-five.vercel.app">
     <img src="https://img.shields.io/badge/Play_on_Farcaster-0052FF?style=for-the-badge&logoColor=white" alt="Play on Farcaster" />
   </a>
-  <a href="https://base-jump-five.vercel.app">
+  <a href="https://base-tower.vercel.app/">
     <img src="https://img.shields.io/badge/Join_Waitlist-F5F7FA?style=for-the-badge&color=gray&logoColor=white" alt="Join Waitlist" />
   </a>
 </p>
