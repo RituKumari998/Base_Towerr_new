@@ -168,10 +168,23 @@ export default function LoadingSpinner({ progress = 0 }: LoadingSpinnerProps) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.5, duration: 0.8 }}
         >
-          <div className="text-sm text-white/60 bg-white/5 backdrop-blur-sm rounded-2xl px-6 py-3 border border-white/10">
-            <p className="font-medium text-white/80 mb-1">💡 Pro Tip:</p>
-            <p>Match 3+ candies to score big and climb the leaderboard!</p>
-          </div>
+          <motion.div
+            className="text-sm text-white/60 bg-white/5 backdrop-blur-sm rounded-2xl px-6 py-3 border border-white/10"
+            animate={{
+              boxShadow: [
+                '0 0 20px rgba(110, 207, 255, 0.1)',
+                '0 0 30px rgba(135, 206, 235, 0.2)',
+                '0 0 20px rgba(110, 207, 255, 0.1)',
+              ],
+            }}
+            transition={{ duration: 2, repeat: Infinity }}
+          >
+            <p className="font-medium text-white/80 mb-1">
+              <FontAwesomeIcon icon={faBolt} className="mr-2 text-cyan-400" />
+              Pro Tip:
+            </p>
+            <p>Build higher towers to score big and climb the leaderboard!</p>
+          </motion.div>
         </motion.div>
       </div>
     </div>
